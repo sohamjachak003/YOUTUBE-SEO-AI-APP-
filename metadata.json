@@ -1,0 +1,6 @@
+{
+  "name": "YouTube SEO AI",
+  "description": "Automated Personal AI Team Member for YouTube Channel SEO and Management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
